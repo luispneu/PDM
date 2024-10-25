@@ -1,0 +1,22 @@
+{
+  "name": "exercicio.pwa",
+  "version": "1.0.0",
+  "description": "este é o exerciico de pwa",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luispneu/PDM.git"
+  },
+  "author": "Luis, Kaio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luispneu/PDM/issues"
+  },
+  "homepage": "https://github.com/luispneu/PDM#readme",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
